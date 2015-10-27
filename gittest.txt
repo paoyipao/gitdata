@@ -3,3 +3,4 @@ test1
 add a new branch
 creating a new branch is quick and simple
 no-ff merge
+git checkout dev and do stash
